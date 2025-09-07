@@ -10,6 +10,9 @@
 
 [![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshika-singh002&theme=rose&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshika-singh-95b00028a/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshikavksingh02@gmail.com) 
