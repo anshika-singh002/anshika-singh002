@@ -4,7 +4,7 @@
 - 🎓 Currently pursuing Comp Sci at VIT Bhopal, India.<br/>
 - 👾 Building tech that matters.<br/>
 - 💡 Currently engineering - [Code Raiders](https://github.com/anshika-singh002/CodeRaiders).<br/>
-- 🎯 If I'm not coding, find me giving coding contests [Codeforces](https://codeforces.com/profile/AnshikaSingh_02),[Codechef](https://www.codechef.com/users/tiiki),[GfG](https://www.geeksforgeeks.org/user/anshika23niog/),[LeetCode](https://leetcode.com/u/anshikavksingh02/).<br/>
+- 🎯 If I'm not coding, find me giving coding contests [Codeforces](https://codeforces.com/profile/AnshikaSingh_02), [Codechef](https://www.codechef.com/users/tiiki), [GfG](https://www.geeksforgeeks.org/user/anshika23niog/), [LeetCode](https://leetcode.com/u/anshikavksingh02/).<br/>
 - 📫 Reach out - [LinkedIn](https://www.linkedin.com/in/anshika-singh-95b00028a/)<br/>
 
 
