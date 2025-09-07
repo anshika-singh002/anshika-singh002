@@ -1,7 +1,7 @@
 ### Hi, I'm Anshika!
 
 - 🎧 I think tech is cool🤭, Don't you?<br/>
-- 🎓 Currently pursuing Comp Sci at VIT Bhopal, India.<br/>
+- 🎓 Currently pursuing Computer Science at VIT Bhopal University, India.<br/>
 - 👾 Building tech that matters.<br/>
 - 💡 Currently engineering - [Code Raiders](https://github.com/anshika-singh002/CodeRaiders).<br/>
 - 🎯 If I'm not coding, find me giving coding contests [Codeforces](https://codeforces.com/profile/AnshikaSingh_02), [Codechef](https://www.codechef.com/users/tiiki), [GfG](https://www.geeksforgeeks.org/user/anshika23niog/), [LeetCode](https://leetcode.com/u/anshikavksingh02/).<br/>
